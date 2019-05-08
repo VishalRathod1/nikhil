@@ -11,6 +11,7 @@ public static void main(String[] args) {
 	mh.add("Pune");
 	mh.add("Mumbai");
 	mh.add("solapur");
+	mh.add("akola");
 	
 	List rj=new ArrayList();
 	rj.add("Jaipur"); 
