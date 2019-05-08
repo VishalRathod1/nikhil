@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	List mh=new ArrayList();
 	mh.add("Pune");
 	mh.add("Mumbai");
+	mh.add("solapur");
 	
 	List rj=new ArrayList();
 	rj.add("Jaipur"); 
